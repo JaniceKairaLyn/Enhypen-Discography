@@ -1,0 +1,50 @@
+[
+  {
+    "id": "border-day-one",
+    "title": "BORDER : DAY ONE",
+    "type": "1st Mini Album",
+    "releaseDate": "2020-11-30",
+    "cover": "images/border-day-one.jpg",
+    "tracks": ["Given-Taken", "Let Me In (20 CUBE)", "10 Months", "Flicker", "Outro: Cross the Line"]
+  },
+  {
+    "id": "border-carnival",
+    "title": "BORDER : CARNIVAL",
+    "type": "2nd Mini Album",
+    "releaseDate": "2021-04-26",
+    "cover": "images/border-carnival.jpg",
+    "tracks": ["Drunk-Dazed", "Fever", "Not for Sale", "Mixed Up", "Outro: The Wormhole"]
+  },
+  {
+    "id": "dimension-dilemma",
+    "title": "DIMENSION : DILEMMA",
+    "type": "1st Studio Album",
+    "releaseDate": "2021-10-12",
+    "cover": "images/dimension-dilemma.jpg",
+    "tracks": ["Tamed-Dashed", "Upper Side Dreamin'", "Just A Little Bit", "Go Big or Go Home", "Blockbuster", "Attention, please!", "Interlude: Question", "ParadoXXX Invasion"]
+  },
+  {
+    "id": "dark-blood",
+    "title": "DARK BLOOD",
+    "type": "4th Mini Album",
+    "releaseDate": "2023-05-22",
+    "cover": "images/dark-blood.jpg",
+    "tracks": ["Bite Me", "Sacrifice (Eat Me Up)", "Chaconne", "Bills", "Fate", "Karma"]
+  },
+  {
+    "id": "orange-blood",
+    "title": "ORANGE BLOOD",
+    "type": "5th Mini Album",
+    "releaseDate": "2023-11-23",
+    "cover": "images/orange-blood.jpg",
+    "tracks": ["Mortal", "Sweet Venom", "Still Monster", "Blind", "Orange Flower(You Complete Me)"]
+  },
+  {
+    "id": "romance-untold",
+    "title": "Romance : Untold",
+    "type": "2nd Studio Album",
+    "releaseDate": "2024-07-12",
+    "cover": "images/romance-untold.jpg",
+    "tracks": ["Moonstruck", "XO (Only If You Say Yes)", "Your Eyes Only", "Hundred Broken Hearts", "Brought The Heat Back","Paranormal", "Royalty", "Highway 1009"]
+  }
+]

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ENHYPEN Discography</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>ENHYPEN</h1>
+        <p>Discography Explorer</p>
+    </header>
+
+<div class="filter-container">
+    <!-- NEW: Search Bar -->
+    <label for="search-input">Search albums</label>
+    <input type="text" id="search-input" placeholder="Search albums..." autocomplete="off">
+
+    <!-- Existing Filter Buttons -->
+    <button class="filter-btn active" data-filter="All">All</button>
+    <button class="filter-btn" data-filter="Mini Album">Mini Albums</button>
+    <button class="filter-btn" data-filter="Studio Album">Studio Albums</button>
+</div>
+
+    <!-- Container for album cards -->
+    <main id="album-grid"></main>
+
+    <!-- Hidden modal for tracklist -->
+    <div id="tracklist-modal" class="hidden">
+        <div class="modal-content">
+            <span id="close-modal">&times;</span>
+            <h2 id="modal-title">Album tracks</h2>
+            <ul id="modal-tracks"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
