@@ -4,6 +4,8 @@ A custom, interactive web app built to explore the discography of K-pop group EN
 
 This project is just for fun. I didn't include all the albums and songs they have released until November, 2026.
 
+I am just an Engene and Ever who support Enhypen and Evan. And I am just a curious learner who is willing to learn something always. Thank you very much y'all.
+
 ## Features
 *   **Album Grid:** View all ENHYPEN albums beautifully displayed.
 *   **Tracklists:** Click any album to see its full tracklist in a modal.
